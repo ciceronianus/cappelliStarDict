@@ -7,12 +7,16 @@ A conversion of Adriano Cappelli's Lexicon Abbreviaturarum (A dictionary of Lati
 ## 🧪 Original Source of data
 This conversion is based on the transcription of [Cappelli's dictionary](https://www.adfontes.uzh.ch/en/ressourcen/abkuerzungen/cappelli-online) done by a crowdsourcing team and expert reviewers of the University of Zürich. Without their work and the fact that they provide all their data for [download](https://www.adfontes.uzh.ch/en/ressourcen/abkuerzungen/cappelli-daten-zum-download) and free use, I would be never able to do this little conversion. 
 
-## 👨‍💻 Installation
+## 👨‍💻 Installation (computers)
 First, you need a dictionary lookup program that supports StarDict format of dictionaries. I recommend [GoldenDict](http://goldendict.org/). You can also use GoldenDict as a portable app, if you cannot instal it. 
 
 Second, download cappelli.zip and unzip it into the folder where you store dictionaries. In GoldenDict, it is usally a **content** folder within its main directory. 
 
 Third, start GoldenDict. In the first start, it should index Cappelli and then you can configure dictionaries. Go to "Edit" -> "Dictionaries". A window will be displayed with three tabs: "Sources", "Dictionaries" and "Groups". Select "Groups" and make sure that Cappelli is at least in one group presented there. Use ">" button to add a dictionary to a group. 
+
+## 📱 Installation (Android and iOS) - work in progress 🚧
+On Android, you can use [Alpus](https://alpusapp.com). Unfortunately, it is not very user friendly. I will write later a guide here. The main issue is with loading images into that. 
+I don't have any iOS device ATM, so I cannot help here now :(.
 
 ## ❗ Nota bene
 Cappelli is divided into 2 dictionaries:
